@@ -1,0 +1,67 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : 
+
+Oct 7, 2016
+	Yesterday :
+	Today     : Make Jug Observable
+	Obstacles : None
+	
+Oct 8, 2016
+	Yesterday : Doesnt make sense to make Jug Observable, will make JugPuzzle observable, we needs facts about the game more than the Jugs.
+	Today     : Make JugPuzzle Observable
+	Obstacles : None
+	
+Oct 9, 2016
+	Yesterday : Completed making JugPuzzle observable
+	Today     : Make GUI For JugPuzzle using 9 different buttons (choices) 3*3 possibilities (0,1,2)*(0,1,2)
+	Obstacles : None
+	
+Oct 10, 2016
+	Yesterday : Completed making JugPuzzle using 9 different buttons, however 9 buttons to play the game is a bit tedious.
+	Today     : Make GUI For JugPuzzle using a make user friendly method (6 buttons)
+	Obstacles : Determining how and when the controller will know which button represents a "to" Jug and which button determines a "from" Jug.
+	
+Oct 11, 2016
+	Yesterday : Found recourses online to help guide me through this, success, created 6 buttons and listener "ButtonActionListener" which
+					determines if the button pressed is a "to" Jug or a "from" Jug depending on its position in an array of buttons.
+	Today     : use toString method of JugPuzzle to display score
+	Obstacles : None
+	
+Oct 12, 2016
+	Yesterday : toString method created using a Jlabel in a separate class "GUIView".
+	Today     : Enable and disable buttons when necessary.
+	Obstacles : Where and how will i disable these buttons.
+	
+Oct 13, 2016
+	Yesterday : Buttons are disabled and enabled in "ButtonActionListener" once a to/from Jug is clicked on, the same group is disabled.
+	Today     : Display a you've won message once the game is won
+	Obstacles : Where and how will I display this message
+	
+Oct 14, 2016
+	Yesterday : Displaying that the game is won will be triggered in "ButtonActionListener" once "getIsPuzzleSolved" is true after a "from" Jug is triggered.
+	Today     : Disable all buttons once the game is won.
+	Obstacles : None
+	
+Oct 15, 2016
+	Yesterday : Disabled "to" jug buttons after the game is determined to be done. This way the user cannot play anymore.
+	Today     : Commit and push by tonight at midnight for ontime submission.
+	Obstacles :
+
+Oct 16, 2016
+	Yesterday : Done. However "to" buttons must be disabled at the beggining of the game.
+	Today     : Create a new Game button that restarts the game at any time
+	Obstacles : Unsure if I must manually re-initialize values or call a pre-exisiting method
+	
+Oct 17, 2016
+	Yesterday : Done. Dispose the JFrame and call createAndShowGUI. 
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :

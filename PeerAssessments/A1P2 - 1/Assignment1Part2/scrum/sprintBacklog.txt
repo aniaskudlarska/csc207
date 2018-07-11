@@ -1,0 +1,148 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 6, 2016
+# Sprint 1 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY : high
+ESTIMATE : 1-2 hours
+AS A     : player
+I WANT   : to see a simple, initial GUI for game play (for example, the
+           one outlined in the assignment) the GUI is non-functional
+SO THAT  : I can play the game using a basic GUI.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Make Move
+PRIORITY : medium
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : I can play the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See number of moves
+PRIORITY : medium
+ESTIMATE : 1/2 hour
+AS A     : player
+I WANT   : see the number of moves I have made in my attempt to 
+           solve the puzzle. 
+           Hint: This is another view (=Observer) on the JugPuzzle. 
+SO THAT  : I can see my progress in solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See State of Jugs 
+PRIORITY : high
+ESTIMATE : 1/2 hour to 1 hour
+AS A     : player
+I WANT   : to graphically/visually see the current state of the jugs 
+           in the jug puzzle. 
+           Hint: This is another view (=observer), but this time 
+           it could be a view on the Jug. 
+SO THAT  : the GUI has some functionality to it.
+--------------------------------------------------------------------------
+
+# Sprint 2 October 9, 2016
+# Sprint 2 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY : low
+ESTIMATE : 1-2 hours
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  : the user knows when they have won.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY : low
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentally corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY : low
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  : the user is able to continuously play the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game Anytime
+PRIORITY : low
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  : the user can play the game whenever they want regardless of 
+		   whether or not they are in a game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Anytime
+PRIORITY : low
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to be able to quit the game anytime.
+SO THAT  : the user can quit the game anytime they want regardless of
+           whether or not they are in a game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : images
+PRIORITY : low
+ESTIMATE : 1-2 hour
+AS A     : player
+I WANT   : to see the Jugs with better design. 
+SO THAT  : the design and display of the GUI looks nicer. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : level of liquid
+PRIORITY : low
+ESTIMATE : 1-2 hour
+AS A     : player
+I WANT   : to see the amount of liquid in a Jug with better design. 
+SO THAT  : the design and display of the GUI looks nicer. 
+--------------------------------------------------------------------------
+
+# Sprint 3 October 12, 2016
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : Main menu
+PRIORITY : low
+ESTIMATE : 2-3 hours
+AS A     : player
+I WANT   : to know how the game works, and be able to play, check instructions and/or quit the game
+		   at the main menu.
+SO THAT  : the game feels like a proper game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : high score
+PRIORITY : low
+ESTIMATE : 1 hour
+AS A     : player
+I WANT   : to know the highest score made by someone in the current session of the game. 
+SO THAT  : they could try and beat the high score. 
+--------------------------------------------------------------------------
+
+# Sprint 3 October 12, 2016
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : Highscore
+PRIORITY : low
+ESTIMATE : 1-2 hours
+AS A     : player
+I WANT   : to know the high score of the game. 
+SO THAT  : the user can see what high score is currently set and to see if they can beat it.
+--------------------------------------------------------------------------

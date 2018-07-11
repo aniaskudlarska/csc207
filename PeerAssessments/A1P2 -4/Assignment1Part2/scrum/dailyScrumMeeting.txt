@@ -1,0 +1,72 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+		N/A
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+		        Read the assignment description and understood what was required
+		        Make a very simple layout with all the required buttons for the GUI layout.
+	
+	Obstacles : Figuring out how everything works and what is required to submit daily
+
+Oct 7, 2016
+	Yesterday : Made a basic GUI model with buttons that are mapped to nothing 
+	Today     : Tried mapping the buttons to jugs but failed
+	Obstacles :	Trying to figure out how the buttons connect to the jugs
+	 
+Oct 8, 2016
+	Yesterday : Failed to map the buttons to jugs and make moves available
+	Today     : Made button clicks register, need to make the options change between clicks
+	Obstacles : Trying to make button clicks pop up because there were many suggested ways online
+	
+Oct 9, 2016
+	Yesterday : Made button clicks register, need to make the options change between clicks
+	Today     : Took a break
+	Obstacles :
+	
+Oct 10, 2016
+	Yesterday : Took a break
+	Today     : Made the jug buttons work
+	Obstacles : Having to figure out how to spill from any jug into other jugs, only got how to pour into any jug
+	
+Oct 11, 2016
+	Yesterday : Made the jug buttons work
+	Today     : Took a break
+	Obstacles :
+	
+Oct 12, 2016
+	Yesterday : Took a break
+	Today     : Made the # of moves show up and made the jugs be visible. Created a restart and quit button.
+				Also made the jugs do proper moves, however does not display on the GUI correctly.
+	Obstacles : Getting the Observers to work, still yet to have them update the GUI model
+	
+Oct 13, 2016
+	Yesterday : Made the # of moves show up and made the jugs be visible. Created a restart and quit button.
+				Also made the jugs do proper moves, however does not display on the GUI correctly.
+	Today     : Took a break
+	Obstacles :
+	
+Oct 14, 2016
+	Yesterday :Took a break
+	Today     : Got everything up and running except for ending the game when the user wins. All views have been added
+	Obstacles : Figuring out how the views work and how to implement them
+	
+Oct 15, 2016
+	Yesterday : Got everything up and running except for ending the game when the user wins. All views have been added
+	Today     : Commit and push by tonight at midnight for on time submission. Made sure program notifies user when 
+				they have won the game. When they win the game, the program does not allow the user to make any new moves.
+	Obstacles : Figuring out how to disable buttons. 
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :

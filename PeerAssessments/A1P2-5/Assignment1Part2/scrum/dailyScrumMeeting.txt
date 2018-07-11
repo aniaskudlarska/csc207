@@ -1,0 +1,66 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : 
+
+Oct 7, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 8, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 9, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 10, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 11, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 12, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 13, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 14, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Oct 15, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for ontime submission.
+	Obstacles :
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :

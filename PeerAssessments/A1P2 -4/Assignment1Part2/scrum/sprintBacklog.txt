@@ -1,0 +1,140 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 6, 2016
+# Sprint 1 Backlog UserStories go below
+--------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY : 1
+ESTIMATE : 2 hrs
+AS A     : player
+I WANT   : to see a simple, initial GUI for game play (for example, the
+           one outlined in the assignment) the GUI is non-functional
+SO THAT  : The user can see what the console looks like and understand how 
+      	   it should work
+--------------------------------------------------------------------------
+
+# Sprint 2 October 9, 2016
+# Sprint 2 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : See number of moves
+PRIORITY :3
+ESTIMATE : 1 hr
+AS A     : player
+I WANT   : see the number of moves I have made in my attempt to 
+           solve the puzzle. 
+           Hint: This is another view (=Observer) on the JugPuzzle. 
+SO THAT  : I can see my progress in solving the puzzle. 
+--------------------------------------------------------------------------
+
+# Sprint 3 October 12, 2016
+
+--------------------------------------------------------------------------
+NAME     : Make Move
+PRIORITY :2
+ESTIMATE : 3 hrs
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : I can play the game
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY : 1
+ESTIMATE : 4 hrs
+AS A     : player
+I WANT   : to see a simple, initial GUI for game play (for example, the
+           one outlined in the assignment) the GUI is non-functional
+SO THAT  : The user can see what the console looks like and understand how 
+      	   it should work
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Make Move
+PRIORITY :2
+ESTIMATE : 3 hrs
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : I can play the game
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See number of moves
+PRIORITY : 3
+ESTIMATE : 1 hr
+AS A     : player
+I WANT   : see the number of moves I have made in my attempt to 
+           solve the puzzle. 
+           Hint: This is another view (=Observer) on the JugPuzzle. 
+SO THAT  : I can see my progress in solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : See State of Jugs 
+PRIORITY : 4
+ESTIMATE : 4 hrs
+AS A     : player
+I WANT   : to graphically/visually see the current state of the jugs 
+           in the jug puzzle. 
+           Hint: This is another view (=observer), but this time 
+           it could be a view on the Jug. 
+SO THAT  : The user knows what the current situation with their jugs are
+--------------------------------------------------------------------------
+
+
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY : 5
+ESTIMATE : 1 hr
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  : The player has a goal to achieve instead of playing aimlessly
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY : 6
+ESTIMATE : 2 hr
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  : The user does not have to exit the GUI just to play another round
+		   of the game
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+NAME     : New Game Anytime
+PRIORITY : 7
+ESTIMATE : 0.5 hr
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  : If they decide they want a fresh start, they do not have to
+		   relaunch the program
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Anytime
+PRIORITY : 8
+ESTIMATE : 0.5 hr
+AS A     : player
+I WANT   : to be able to quit the game anytime.
+SO THAT  : If the user gets bored or just does not want to play anymore, they
+		   can exit whenever they want
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY : 9
+ESTIMATE : 2hr
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentally corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------

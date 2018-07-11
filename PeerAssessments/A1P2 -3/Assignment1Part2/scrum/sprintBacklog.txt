@@ -1,0 +1,118 @@
+# Copy User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 October 12, 2016
+-------------------------------------------------------------------------
+NAME     : See GUI
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to see a simple, initial GUI for game play (for example, the
+           one outlined in the assignment) the GUI is non-functional
+SO THAT  : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Make Move
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to be able to make a game move. That is, choose the jug that I 
+           spill from (press button). Then choose the jug I spill into 
+           (press button). Then have the 
+           move made on the JugPuzzle. Note: I don't need to see the 
+           outcome of the spill yet. That is in another user story. 
+SO THAT  : I can play the game
+--------------------------------------------------------------------------
+# Sprint 1 Backlog UserStories go below
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentially corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game Anytime
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Anytime
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to be able to quit the game anytime.
+SO THAT  :
+--------------------------------------------------------------------------
+
+# Sprint 2 October 13, 2016
+--------------------------------------------------------------------------
+NAME     : Won alert
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to know when I have won the game. 
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Won Halts Game
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : Not have the ability to make another move once 
+           the puzzle is solved. 
+SO THAT  : I can't accidentially corrupt my score by making a move 
+           after solving the puzzle. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game when Won
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to be given the choice to play a new game or to quit, once the 
+           game is over. 
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : New Game Anytime
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to be given the choice to start a new game at any 
+           time during the game.
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+NAME     : Quit Anytime
+PRIORITY :
+ESTIMATE : 
+AS A     : player
+I WANT   : to be able to quit the game anytime.
+SO THAT  :
+--------------------------------------------------------------------------
+

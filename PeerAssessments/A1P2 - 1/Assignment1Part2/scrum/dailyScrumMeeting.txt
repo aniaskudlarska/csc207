@@ -1,0 +1,79 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proof read 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : 
+
+Oct 7, 2016
+	Yesterday : Created GUIController class and updated some of the files
+				related to Scrum.
+	Today     : Understanding classes structures and how they will be related
+				to one another.
+	Obstacles : Having a bit of difficulty grasping the assignment requirements
+				and how to implement said requirements.
+	
+Oct 8, 2016
+	Yesterday : Trying to understand classes needed for the project as 
+				well as how to make the GUI function
+	Today     : Completing a few user stories, get a working basic working GUI
+				possibly get a much better looking GUI as well. 
+	Obstacles : Understanding the structure of files and how they connect to
+				each other.
+	
+Oct 9, 2016
+	Yesterday : Completed user stories for sprint 1. Got a much better GUI
+				working, although game didn't fully function.
+	Today     : GUI looking good, completed GUI although functionality is not complete 
+	Obstacles : MVC is giving me some trouble currently, understanding how Observers and
+				Observable's work. Some JPanel painting functionality is not working and 
+				slowing down completion.
+	
+Oct 10, 2016
+	Yesterday : Completed Sprint 1 user stories.
+	Today     : Implemented classes and such for proper MVC functionality.
+	Obstacles : Making the GUI look better than a basic GUI using the MVC implemntation.
+	
+Oct 11, 2016
+	Yesterday : Implemented proper MVC design.
+	Today     : Tried to fix GUI problems and allow for game won screen to work.
+	Obstacles : Having a tough time getting the GUI problems to fix, can't find 
+				much help online.
+	
+Oct 12, 2016
+	Yesterday : Worked on GUI problems to make UI work properly.
+	Today     : Didn't work on anything.
+	Obstacles :
+	
+Oct 13, 2016
+	Yesterday : Didn't work on anything.
+	Today     : Continued to fix GUI problems, have to complete game won screen.
+	Obstacles : GUI has a lot of bugs, trying to split up the buttons and everything on
+				screeb into different views.
+	
+Oct 14, 2016
+	Yesterday : Continued to fix GUI problems to have a working game screen.
+	Today     : Finished up GUI problems and worked on high score functionality
+				as well as game over screen.
+	Obstacles : Had some difficulty when it came to the displaying of the messages from the 
+				game won screen and high score display.
+	
+Oct 15, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for ontime submission.
+	Obstacles :
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :
